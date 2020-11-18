@@ -9,9 +9,6 @@
 Luhn ALgorithm and regular expressions.
 
 
-### Conditional rendering depending on validation
-
-
 ### React Credit Cards
 
 React component which displays a credit card including user input.
@@ -20,7 +17,12 @@ React component which displays a credit card including user input.
 ### Unit tests
 
 
---
+### Conditional rendering depending on validation
+
+
+
+
+
 
 
 ### `npm start`
