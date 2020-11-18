@@ -6,7 +6,7 @@
 
 ### Credit card validation
 
-Luhn ALgorithm and regular expressions.
+Luhn Algorithm and regular expressions.
 
 
 ### React Credit Cards
