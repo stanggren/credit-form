@@ -4,7 +4,7 @@
 ## Includes
 
 
-### credit card validation
+### Credit card validation
 
 Luhn ALgorithm and regular expressions.
 
@@ -20,9 +20,7 @@ React component which displays a credit card including user input.
 ### Conditional rendering depending on validation
 
 
-
-
-
+--
 
 
 ### `npm start`
